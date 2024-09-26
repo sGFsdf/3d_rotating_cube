@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/3dcube.dir/src/main.c.o -o 3dcube  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so lib/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
