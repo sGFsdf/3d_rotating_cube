@@ -1,0 +1,9 @@
+/home/a/Projects/3dcube/CMakeFiles/3dcube.dir
+/home/a/Projects/3dcube/CMakeFiles/edit_cache.dir
+/home/a/Projects/3dcube/CMakeFiles/rebuild_cache.dir
+/home/a/Projects/3dcube/lib/glfw/CMakeFiles/edit_cache.dir
+/home/a/Projects/3dcube/lib/glfw/CMakeFiles/rebuild_cache.dir
+/home/a/Projects/3dcube/lib/glfw/src/CMakeFiles/glfw.dir
+/home/a/Projects/3dcube/lib/glfw/src/CMakeFiles/update_mappings.dir
+/home/a/Projects/3dcube/lib/glfw/src/CMakeFiles/edit_cache.dir
+/home/a/Projects/3dcube/lib/glfw/src/CMakeFiles/rebuild_cache.dir
